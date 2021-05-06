@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Ibakordor-K
+- 👀 I’m interested in cyber security...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+        Twitter: https://twitter.com/IKharmih
+        Instagram: https://www.instagram.com/_ibakordor_/
+        Linkedin: https://www.linkedin.com/in/ibakordor-kharmih-a71058135/
+
+<!---
+Ibakordor-K/Ibakordor-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
